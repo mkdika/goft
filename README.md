@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
-A common feature toggle web interface, ready to use with just simple setup.
+A lightweight common feature toggle web interface, ready to use with just easy setup.
 
 ## Contributing
 
