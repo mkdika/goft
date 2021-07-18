@@ -4,6 +4,8 @@
 
 A lightweight common feature toggle web interface, ready to use with just easy setup.
 
+> This project is in developing state
+
 ## Contributing
 
 1. Fork it (<https://github.com/mkdika/goft/fork>)
